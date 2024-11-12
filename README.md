@@ -42,12 +42,9 @@ CTOs defining their companies technical strategy
 
 CIOs strategically looking for a new infrastructure and not limiting to the existing one
 
-<!--
-
 
 
 ## Here are some ideas to get you started:
-
 
 🙋‍♀️ A short introduction - what is your organization all about?
 

@@ -8,14 +8,15 @@
 
 
 
-**Our Vision
-**
+## Our Vision
+
 OWN YOUR OWN AI: private, composable and controllable AI systems at the enterprise level. 
 
 
 
-**Our Mission
-**We are a community of practitioners building open-source private, composable and controllable AI systems, aiming to make local models deployment easier and more effective at different levels.
+## Our Mission
+
+We are a community of practitioners building open-source private, composable and controllable AI systems, aiming to make local models deployment easier and more effective at different levels.
 
 By collaborating on such system standards for everyone, we aim to reduce the complexity of the AI industry in general. 
 
@@ -25,9 +26,9 @@ Therefore, we foster and build projects which can become engineering building bl
 
 
 
-**Who We Are Here For
+## Who We Are Here For
 
-**We support practitioners willing to benefit from AI in their work and life, specifically models and their fine-tuning and deployment, such as:
+We support practitioners willing to benefit from AI in their work and life, specifically models and their fine-tuning and deployment, such as:
 
 Software engineers building with open source AI technologies
 
@@ -45,7 +46,7 @@ CIOs strategically looking for a new infrastructure and not limiting to the exis
 
 
 
-**Here are some ideas to get you started:**
+## Here are some ideas to get you started:
 
 
 🙋‍♀️ A short introduction - what is your organization all about?

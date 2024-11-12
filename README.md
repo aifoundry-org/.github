@@ -30,17 +30,17 @@ Therefore, we foster and build projects which can become engineering building bl
 
 We support practitioners willing to benefit from AI in their work and life, specifically models and their fine-tuning and deployment, such as:
 
-Software engineers building with open source AI technologies
+- Software engineers building with open source AI technologies
 
-Data engineers handling data for models training, fine-tuning and deployment in different ways
+- Data engineers handling data for models training, fine-tuning and deployment in different ways
 
-Academic researchers working on the latest techniques of models fine-tuning, such as continuous training, and models local usage, such as quantization
+- Academic researchers working on the latest techniques of models fine-tuning, such as continuous training, and models local usage, such as quantization
 
-Funky hardware companies designing semiconductors, processors and chips, and optimizing software for better hardware utilization
+- Funky hardware companies designing semiconductors, processors and chips, and optimizing software for better hardware utilization
 
-CTOs defining their companies technical strategy
+- CTOs defining their companies technical strategy
 
-CIOs strategically looking for a new infrastructure and not limiting to the existing one
+- CIOs strategically looking for a new infrastructure and not limiting to the existing one
 
 
 

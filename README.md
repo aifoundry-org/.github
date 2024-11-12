@@ -1,8 +1,6 @@
-**
+**![AIFoundryorg_small logo](https://github.com/user-attachments/assets/78eb0675-6b19-4c98-8ee6-0e49a276d035)
 
 
-
-![AIFoundryorg_small logo.png](C:\Users\yulia\Downloads\AIFoundryorg_small%20logo.png)
 
 ## Hi there 👋 -- we are building an open ecosystem for AI
 
@@ -11,13 +9,12 @@
 
 
 **Our Vision
-
-**OWN YOUR OWN AI: private, composable and controllable AI systems at the enterprise level. 
+**
+OWN YOUR OWN AI: private, composable and controllable AI systems at the enterprise level. 
 
 
 
 **Our Mission
-
 **We are a community of practitioners building open-source private, composable and controllable AI systems, aiming to make local models deployment easier and more effective at different levels.
 
 By collaborating on such system standards for everyone, we aim to reduce the complexity of the AI industry in general. 

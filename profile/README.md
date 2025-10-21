@@ -10,7 +10,7 @@ When we can't find appropriate building blocks in the open -- we're not shy to b
 
 Oh, and mark our words: [Transputers](https://tu-dresden.de/ing/informatik/ti/vlsi/ressourcen/dateien/dateien_studium/dateien_lehstuhlseminar/vortraege_lehrstuhlseminar/folder-2013-04-11-7748162390/20130612_Transputer-Architecture_Handout_UM.pdf?lang=en) are due for a huge comeback in the AI-centric world.
 
-![](https://github.com/aifoundry-org/.github/blob/main/bits-n-bytes/transputer.gif)
+![](https://raw.githubusercontent.com/aifoundry-org/.github/refs/heads/main/transputer.gif)
 
 ## ET and reference hardware designs
 - [ET Design Overview](https://github.com/aifoundry-org/et-man)

@@ -1,6 +1,6 @@
 ## AI Foundry: own your own AI from silicon to open models.
 
-[![](https://dcbadge.limes.pink/api/server/WNKvkefkUs?logoColor=f9a03f)](https://discord.gg/WNKvkefkUs) [![Follow us on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-us-on-hf-md.svg)](https://huggingface.co/aifoundry-org)
+[![](https://dcbadge.limes.pink/api/server/WNKvkefkUs?logoColor=f9a03f&style=plastic)](https://discord.gg/WNKvkefkUs) [![Follow us on HF](https://huggingface.co/datasets/huggingface/badges/resolve/main/follow-us-on-hf-md.svg)](https://huggingface.co/aifoundry-org)
 
 Hi there 👋 -- we are building a collection of shareable building blocks (from silicon to open models) empowering humanity to own its own AI. We bring together open source hackers in the fields of computer architecture, ASIC design, advanced systems, and neural network compilers who are bold enough to think that you don't have to work for a mega corporation to build your own computers for AI. Our mission is to bring the spirit of [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club) back into vogue. The easiest place to find us is on our [Discord](https://discord.com/invite/WNKvkefkUs) or at [FOSDEM](https://fosdem.org/2025/schedule/track/ai/).
 

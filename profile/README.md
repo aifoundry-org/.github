@@ -1,5 +1,7 @@
 ## AI Foundry: own your own AI from silicon to open models.
 
+[![](https://dcbadge.limes.pink/api/server/INVITE)](https://discord.gg/WNKvkefkUs)
+
 Hi there 👋 -- we are building a collection of shareable building blocks (from silicon to open models) empowering humanity to own its own AI. We bring together open source hackers in the fields of computer architecture, ASIC design, advanced systems, and neural network compilers who are bold enough to think that you don't have to work for a mega corporation to build your own computers for AI. Our mission is to bring the spirit of [Homebrew Computer Club](https://en.wikipedia.org/wiki/Homebrew_Computer_Club) back into vogue. The easiest place to find us is on our [Discord](https://discord.com/invite/WNKvkefkUs) or at [FOSDEM](https://fosdem.org/2025/schedule/track/ai/).
 
 We believe AGI can only be achieved through [cat super intelligence](https://en.wikipedia.org/wiki/Accelerando#Characters) and we grew up playing the [worst Atari game ever created](https://en.wikipedia.org/wiki/E.T._the_Extra-Terrestrial_(video_game)).

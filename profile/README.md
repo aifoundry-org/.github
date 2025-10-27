@@ -25,7 +25,9 @@ Oh, and mark our words: [Transputers](https://tu-dresden.de/ing/informatik/ti/vl
 - [ET ISA extensions patches for binutils](https://github.com/aifoundry-org/binutils-gdb)
 
 ### System support
-- [ET Sowftware Emulator](https://github.com/aifoundry-org/et-platform/tree/master/sw-sysemu#sw-sysemu)
+The [ET Platform](https://github.com/aifoundry-org/et-platform) project provides a platform to develop software on ET, including:
+- [ET Runtime Library](https://github.com/aifoundry-org/et-platform/tree/master/esperanto-tools-libs)
+- [ET Software Emulator](https://github.com/aifoundry-org/et-platform/tree/master/sw-sysemu#sw-sysemu)
 - [ET SOC1 PCI card Linux driver](https://github.com/aifoundry-org/et-platform/tree/master/et-driver)
 - [ET SOC1 PCI card control plane](https://github.com/aifoundry-org/et-platform/tree/master/device-management-application#et-top-application)
 

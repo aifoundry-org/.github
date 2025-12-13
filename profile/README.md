@@ -23,6 +23,7 @@ Oh, and mark our words: [Transputers](https://tu-dresden.de/ing/informatik/ti/vl
 ### RISC-V enablement
 - [ET RISC-V GNU Toolchain](https://github.com/aifoundry-org/riscv-gnu-toolchain)
 - [ET ISA extensions patches for binutils](https://github.com/aifoundry-org/binutils-gdb)
+- [ET LLVM](https://github.com/aifoundry-org/llvm/tree/et)
 
 ### System support
 The [ET Platform](https://github.com/aifoundry-org/et-platform) project provides a platform to develop software on ET, including:
